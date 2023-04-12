@@ -3,6 +3,6 @@ public class TestController {
 
     @GetMapping("/")
     string index() {
-        return "Commit";
+        return "First Commit";
     }
 }

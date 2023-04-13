@@ -1,4 +1,4 @@
-@RestController
+@TestController
 public class TestController {
 
     @GetMapping("/")
